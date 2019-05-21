@@ -10,4 +10,4 @@
 `$ curl http://localhost:3000`
 
 ### To Stop
-`$ docker stop [container_id]
+`$ docker stop [container_id]`
