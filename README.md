@@ -1,13 +1,13 @@
-### Docker Demo
+## Docker Demo
 
-## To Build
+### To Build
 `$ docker build -t neilshannon/docker-demo:1.0`
 
-## To Run
+### To Run
 `$ docker run -P 3000:3000 neilshannon/docker-demo:1.0`
 
-## To Test
+### To Test
 `$ curl http://localhost:3000`
 
-## To Stop
+### To Stop
 `$ docker stop [container_id]
